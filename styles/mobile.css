@@ -9,35 +9,33 @@ div {
 }
 
 h1 {
-    font-size: xx-large;
+    font-size: 8ex;
     text-align: center;
 }
 
 p {
     display: block;
+    font-size: 2ex;
     color: black;
     margin: 1%;
 }
 
 a {
     display: block;
+    font-size: 2ex;
     color: blue;
     margin: 1%;
 }
 
 img {
     display: block;
-    width: 60%;
+    width: 98%;
     border: 1px solid black;
-    margin-top: 1%;
-    margin-bottom: 1%;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .img-text {
     display: block;
-    font-size: medium;
+    font-size: 2ex;
     font-style: italic;
     text-align: center;
 }
